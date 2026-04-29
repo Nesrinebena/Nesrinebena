@@ -25,16 +25,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <a href="https://www.linkedin.com/in/nesrine-benadjal-0a7327258/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBoip%2FFJJQYWPNBYVin4h%2FQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nesrine BENADJAL" height="30" width="40" /></a>
 
-### 📊 | GitHub Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<div align="center">
-  <a href="http://www.github.com/nesrinebena">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=nesrinebena&show_icons=true&theme=radical&hide_border=true" />
-  </a>
-  <a href="http://www.github.com/nesrinebena">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesrinebena&layout=compact&langs_count=8&hide_border=true&theme=radical" />
-  </a>
-</div>
-
  
 </div>
